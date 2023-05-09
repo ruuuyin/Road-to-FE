@@ -58,7 +58,6 @@
   - Comments
   - Operators
   - Basic of Arrays
-
 - Control Flow
   - Conditional statement
     - ```If```... ```else```
@@ -69,7 +68,6 @@
     - ```for``` loop
     - ```for in``` loop
     - ```for of``` loop
-  
 - Functions
   - What is a function
   - Syntax
@@ -78,13 +76,32 @@
   - Closure
   - Callback Function
   - Higher Order Function
-  
 - Objects & Arrays
   - Array methods (```map```, ```filter```, ```sort```)
   - Objects
     - Syntax
     - How to access values from an object
-
+- Modularity
 - DOM Manipulation
   - How to access html element using javascript
   - etc.
+
+## ReactJs
+
+- What is React.
+- Describing the UI
+  - Components
+  - Importing and Exporting Components
+  - JSX
+  - Writing Javascript inside JSX with curly braces
+  - Passing Props
+  - Conditional Rendering
+  - Rendering Lists
+- Adding Interactivity
+  - Responding to Events
+  - State
+  - Render and Commit
+  - State as a Snapshot
+  - Queueing a Series of State Updates
+  - Updating Objects in  State
+  - Updating Arrays in State
